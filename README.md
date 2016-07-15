@@ -36,7 +36,7 @@ Raspberry Pi GPIO pins each have three names (for more information about that, s
 
 ### Raspberry Pi
 
-A [Raspberry Pi][raspberrypi] model with [40 pins][[raspberrypi-40pin]] is also required. Like many others, I've not been able to get my hands on one to test, however, this should be a reasonable application of the [Raspberry Pi Zero][raspberrypi-zero].
+A [Raspberry Pi][raspberrypi] model with [40 pins][raspberrypi-40pin] is also required. Like many others, I've not been able to get my hands on one to test, however, this should be a reasonable application of the [Raspberry Pi Zero][raspberrypi-zero].
 
 Additionally, all the normal Raspberry Pi accessories (SD card, 5Vdc supply) will be needed. 
 
